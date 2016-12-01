@@ -9,10 +9,9 @@ October 20, 2016
 <!--more-->
 
 
+## Why the Shift to Online Media Isn’t the End of the World
 
-**Why the Shift to Online Media Isn’t the End of the World**
-
-**By Madison Dettlinger**
+By Madison Dettlinger
 
 
 
@@ -32,21 +31,12 @@ As with every new technology, there are risks to online media, as well. In parti
 
 But sites like The Tab are aware of these risks and working every day to help combat them. Readers respond to good, well-written media—whether it’s online or in print—creating a push for online publications to maintain high standards. We fact-check extensively and attempt to bring a wide range of voices to the sphere. At The Tab Michigan, in particular, I’m working on a goal for this year of having more hard news and in-depth pieces, and less opinion articles, so that we have an efficient balance between the two. Being aware of these issues is the first step in combatting them, and ensuring that the shift from print to online media doesn’t correlate with a lowering of standards. Online media is the future, and that doesn’t have to be a bad thing.
 
-**“****The need for thought-provoking written work is showing itself in a new medium online.”**
-
-
-
-
+**“The need for thought-provoking written work is showing itself in a new medium online.”**
 
 * * *
 
 
-
-
-
-
-
-**Cut It ****_Down, _****Media!**
+## Cut It _Down,_ Media!
 
 **By Benjamin Decatur**
 
@@ -71,18 +61,10 @@ So wake up mainstream media! Email newsletters that emphasize brevity like theSk
 **“Condensed media allow people to efficiently stay informed.”**
 
 
-
-
-
 * * *
 
 
-
-
-
-
-
-**A digital future grounded in print values**
+## A digital future grounded in print values
 
 **By Michael Sugerman**
 
@@ -126,7 +108,7 @@ Despite admitting certain pitfalls, Albom concluded that journalism is the path 
 
 He called journalism “the most important job you can do.” I agree.
 
-**“We ****_need_**** print journalism, on local and national levels, because journalists do an invaluable service.”**
+**“We _need_ print journalism, on local and national levels, because journalists do an invaluable service.”**
 
 
 
@@ -140,7 +122,7 @@ He called journalism “the most important job you can do.” I agree.
 
 
 
-**Swimming Up a Waterfall**
+## Swimming Up a Waterfall
 
 **By Alex Rakestraw**
 
