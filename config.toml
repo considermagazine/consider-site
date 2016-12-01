@@ -40,8 +40,9 @@ googleAnalytics = ""
   name = "About"
   url = "about/"
 
+  # There's a third nav link "Apply" that was hard coded into the html in
+  # partials/sidebar.html
+
   [params.social]
-  facebook     = "full page or profile url"
-  email        = "email@example.com"
-  twitter      = "full profile url"
-  instagram    = "full profile url"
+  facebook     = "https://www.facebook.com/discussconsider"
+  instagram    = "https://www.instagram.com/consider_uofm/"
