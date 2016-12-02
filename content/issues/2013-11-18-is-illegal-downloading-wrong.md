@@ -1,0 +1,51 @@
++++
+draft = false
+image = "img/portfolio/2013-11-18.png"
+date = "2013-11-18 19:09:48+00:00"
+title = "Is Illegal Downloading Wrong?"
+weight = 0
++++
+November 18, 2013
+<!--more-->
+
+## Piracy Killed the Video Star
+
+_Allison Epstein_
+
+I don’t mean to come out as the Royal Navy against the dashing Captain Jack Sparrow made up of bittorrents and movie streaming sites. I’m operating on a student budget as much as anyone, and I agree that $7.50 is too much to pay for a movie ticket. Still, we have to consider the way America operates. Is saving a few bucks worth silencing our voices and our votes when we go underground for our media consumption?
+
+America, whether we like it or not, is a nation run by the dollar. (A debate on how effective this is, while worthwhile, belongs in a different article. I’m here to talk about piracy, not Marxism.) Just as we vote for the elected officials we want through the ballot box, we “vote” for how we want corporations to behave through what we choose to endorse with our money. You don’t even have to suffer through Econ 101 to realize that this follows a basic principle of supply and demand. The more we show corporations that we want something, the more they will provide it and the more profit they will reap by extension. It’s naive to think that the entertainment industry will continue to turn out quality products if that isn’t where their paycheck is coming from. We need to look no further for the proof of this than the recent release of Fast and Furious 7. Yep, that was a seven. You don’t see small psychological dramas turning out seven sequels.
+
+If media juggernauts like Paramount Pictures and the Universal Music Group are going to direct their resources where the most money is to be made, it really doesn’t make sense for us to take our preferences into the shadowy recesses of the Internet. Sure, it might be easier to stream Breaking Bad instead of paying the monthly Netflix fee, but are you really cheating the system by doing this, or is the system cheating you? Transformers: The Dark of the Moon grossed over one billion dollars in 2011. Smaller, independent films can never expect to keep up with this. The same goes for music: mass-produced synthesizer pop dominates the market everywhere you look because that’s what sells. I’m just saying: Miley Cyrus has a net worth of $150 million. If we refuse to vote with our dollars for what type of music or movies we want, do we have any right to complain when every song on the radio sounds the same?
+
+Pirating movies, music, and other media snatches the means of existence out of small- budget artists trying to take mainstream media in a different direction. Without public support, which in capitalism can only mean money, alternative artists will be unable to convince agents to take a chance on them, resulting in a further narrowing of the field when it comes to the media available to the general public. It’s comforting to pretend that art and media are above such mundane considerations as profit, and that artists will continue to create regardless of whether or not they make money. Speaking as someone majoring in a creative field, the “starving artist” trope isn’t as attractive as portrayed in RENT or Moulin Rouge!. One can only survive on Ramen for so long before being forced to choose another profession to survive. Artists have to eat and pay the rent too.
+
+People who stay at home on election day tread on dangerous ground when they complain about the route the country is taking; those who exclusively pirate media, and try to have it both ways when the box office fare doesn’t meet their expectations, do as well. The free market is a democracy run by the dollar, whether or not we like it. It might be nice to imagine that the entertainment industry is a happy-go-lucky kingdom where butterflies and unicorns prance about and artists can create from their souls without considering their paycheck, but we don’t live in that world. I wish we did, but we don’t.
+
+So by all means, continue to rip your DVDs and stream them onto the Internet. Just don’t be surprised when suddenly all you have to watch is Fast and Furious 24.
+
+_Allison Epstein is a senior in LSA’s Residential College, majoring in creative writing, English, and French. She is also the associate editor for the online positive body- image magazine Adios Barbie, editor of the RC Review literary magazine, and an avid supporter of black coffee and BBC’s Sherlock. Which, for the record, she owns on DVD._
+
+---
+
+## A Good Excuse For a Concert
+
+_Mark McLoughlin_
+
+Which would you rather be: a music "pirate" or someone who believes in free access to art? As it turns out, they are the same thing. If all music became legally free for anyone at any time, the terms “piracy” or “illegal downloading” would cease to be relevant in the music industry. Sound ridiculous? As things currently stand, music is so close to being legally free that the industry has already begun to evolve in preparation for this change.
+
+There has never been a better time to listen to music. Current services like Spotify and YouTube already showcase the benefits of free and easy access to music. On these programs, listeners are able to “shop” around the global music marketplace and dive deep into the art of musicians thousands of miles away—all for free. The average internet user today has access to a greater number of artists than even the learned record store owners of the 60’s and 70’s. Permitting free access on the internet allows one to become well-versed in multiple artists and genres with the simple click of a mouse. As an indiscriminate lover of all genres, it has been indispensible to my musical exposure to live in an era where I can seamlessly switch from Chance the Rapper’s mixtape, to Viking- death-metal act Amon Amarth, and end with the ethereal Icelandic sounds of Sigur Ros.
+
+Although one could try to draw a distinction between listening to a song for free on YouTube and “owning” a song that was purchased legally, what is the real difference? Spotify and YouTube (as well as many other sites) currently allow free “ownership” of the right to listen to a song whenever you are near a computer, just as purchasing a CD allows the listener to hear a song whenever they are near a CD player. True, both internet programs feature brief ads while listening to music, but is it really that meaningful of a difference to click the “skip ad” button after five seconds?
+
+Pointing out that artists will lose significant revenue if deprived of album sales typically proves to be a dead-end argument. According to “Theroot.com,” “for every $1000 in music sold, the average musician makes $23.40.”(1) Another article from InvestingAnswers.com tells a similar tale of woe: “the average high-end royalty deal with a record company will pay musicians $1 for every $10 retail album... it can be a lot worse than that; a low-end royalty deal only pays 30 cents per album sale -- amazingly small for a CD purchase, especially considering that bands may have to divide that among several members." (2) The article continues to explain how the payoff is even lower for iTunes sales, noting that "artists get nine cents for each individual song download on... iTunes. To put that into perspective, musicians need to sell 12,399 songs a month to earn a salary equal to a McDonald's employee."
+
+To those who would claim that allowing free music deprives artists of their primary source of revenue, I have one word: touring. The way the music industry is evolving now, by the time I graduate law school, artists will make practically nothing from creating albums. Artists are therefore left with only one possible outcome: take the show on the road. This often proves to be a true test for an artist; sounding good in studio with a skilled producer who can auto-tune away your mistakes is one thing, but sounding good live is another. Fans will still go see good artists live, regardless of how they acquire their music.
+
+If people are listening to more music than ever before and artists have more reason to tour, then it follows that more people are seeing live shows. This is an overwhelmingly good thing. The more an artist tours, the greater the connection the artist has with the listeners. Plenty of artists got their start by touring feverishly; this then planted the seeds for a nation-wide following even before they got their “big break” with a label. Furthermore, no record can ever live up to a truly amazing live show. Bobbing your head to Eminem’s “Lose Yourself” blasting through your headphones is nothing compared to screaming the lyrics along with 80,000 other fans during a sold- out Lollapalooza show. Trust me, I’ve been there.
+
+_(1) Jefferson, Cord. “The Music Industry’s Funny Money.” The Root. N.p., 6 July 2010. Web. 28 Oct. 2013. [http:// www.theroot.com/views/how-much-do-you-musicians- really-make?GT1=38002](http:// www.theroot.com/views/how-much-do-you-musicians- really-make?GT1=38002)._
+
+_(2) Reed, Brian. “Who Really Profits from Your ITunes Downloads?” Investing Answers. N.p., 11 Nov. 2011. Web. 28 Oct. 2013. [http://www.investinganswers.com/ personal-finance/rich-famous/who-really-profits-your- itunes-downloads-3818](http://www.investinganswers.com/ personal-finance/rich-famous/who-really-profits-your- itunes-downloads-3818)._
+
+_Mark McLoughlin is a first-year JD student at The University of Michigan Law School. Mark graduated from Northwestern University in 2013 with a major in Political Science and minors in Classics and Theater. After law school, Mark hopes to practice transactional law for touring music artists._
