@@ -1,7 +1,7 @@
 baseurl = "http://consideronline.org/"
 title = "Consider Magazine"
 languageCode = "en-us"
-ignoreFiles = [ "/archive/" ]
+ignoreFiles = [ "/archive/", "hugo" ]
 
 
 # Enable comments by entering your Disqus shortname
