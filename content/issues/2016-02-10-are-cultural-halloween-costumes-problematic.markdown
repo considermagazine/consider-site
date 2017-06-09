@@ -7,10 +7,7 @@ weight = 0
 +++
 November 1, 2015
 <!--more-->
-##Because it’s pretty damn easy not to
-
-
-
+## Because it’s pretty damn easy not to
 
 Alexandra “the womyn” Friedman
 
@@ -29,15 +26,12 @@ As a feminist, there are plenty of women who I consider to be far too radical fo
 
 The fact that I am even being asked to write an article about this topic is evidence enough that this is important enough to be discussed. So who really cares if you believe you are wronging those who are marginalized? It’s not that hard. Pick a different costume. I’ll find you one.
 
-Alexandra is an Ecology Major during the day and Social Justice Wario during the night. (Yes, she dons a Wario outfit and slices the throat of chauvinist men.) You will probably find her ranting about the drug war during non-class hours or hula hooping in overly conspicuous places.
+_Alexandra is an Ecology Major during the day and Social Justice Wario during the night. (Yes, she dons a Wario outfit and slices the throat of chauvinist men.) You will probably find her ranting about the drug war during non-class hours or hula hooping in overly conspicuous places._
 
 
 
 
-##Not Offensive, Just for Fun
-
-
-
+## Not Offensive, Just for Fun
 
 Salvatore DiGioia
 
@@ -56,6 +50,6 @@ It’s Halloween season and therefore fair to assume that Americans nationwide a
 
         Halloween costumes merely point out a problem with the entire nation’s understanding of other ethnicities. As far as the costume wearers, they are only lightheartedly pretending to be something other than themselves. They’re dressing up for one night. Are they really the root of concern? It’s not their fault that the world around them has no idea what is authentic. Instead of attacking the festive spirit of Halloween, we should take a step back and think about the fact that people immediately recognize what these costumes are supposed to be. _That_ might be something worth discussing.
 
-Salvatore is a nineteen year old caffeine-addict whose desire to be a writer is equally rooted in Jack Kerouac’s romanticized mishaps and Kanye West’s digital culture. To truly understand him is to know that New York will forever be home and marinara sauce is indigestible unless it was cooked by his mother.
+_Salvatore is a nineteen year old caffeine-addict whose desire to be a writer is equally rooted in Jack Kerouac’s romanticized mishaps and Kanye West’s digital culture. To truly understand him is to know that New York will forever be home and marinara sauce is indigestible unless it was cooked by his mother._
 
 
