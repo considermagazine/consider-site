@@ -1,0 +1,13 @@
+/* your styles go here */
+#consider-tagline {
+    width: 100%;
+}
+a {
+    text-transform: none;
+}
+#issue-summary h4 {
+    margin: 0;
+}
+#issue-summary p {
+    margin: 0;
+}
