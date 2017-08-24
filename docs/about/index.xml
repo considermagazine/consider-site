@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About-rsses on Consider Magazine</title>
-    <link>http://consideronline.org/about/index.xml</link>
+    <link>https://considermagazine.github.io/consider-site/about/index.xml</link>
     <description>Recent content in About-rsses on Consider Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Consider Magazine</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
-    <atom:link href="http://consideronline.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://considermagazine.github.io/consider-site/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://consideronline.org/about/</link>
+      <link>https://considermagazine.github.io/consider-site/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>http://consideronline.org/about/</guid>
+      <guid>https://considermagazine.github.io/consider-site/about/</guid>
       <description>
 
 &lt;p&gt;We are Consider, a point/counter-point publication.&lt;/p&gt;
