@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issues-rsses on Consider Magazine</title>
-    <link>/issues/index.xml</link>
+    <link>consider-site/issues/index.xml</link>
     <description>Recent content in Issues-rsses on Consider Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Consider Magazine</copyright>
     <lastBuildDate>Thu, 16 Mar 2017 19:09:48 +0000</lastBuildDate>
-    <atom:link href="/issues/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="consider-site/issues/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Should Michigan Go Greener?</title>
-      <link>/issues/2017-03-16-should-michigan-go-greener/</link>
+      <link>/consider-site/issues/2017-03-16-should-michigan-go-greener/</link>
       <pubDate>Thu, 16 Mar 2017 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2017-03-16-should-michigan-go-greener/</guid>
+      <guid>/consider-site/issues/2017-03-16-should-michigan-go-greener/</guid>
       <description>&lt;p&gt;March 16, 2017
 &lt;/p&gt;
 
@@ -117,10 +117,10 @@ Furthermore, 12 percent of food purchased was supplied by local and sustainable 
     
     <item>
       <title>Have Victors Benefitted From Career Resources?</title>
-      <link>/issues/2017-02-09-have-victors-benefitted-from-career-resources/</link>
+      <link>/consider-site/issues/2017-02-09-have-victors-benefitted-from-career-resources/</link>
       <pubDate>Thu, 09 Feb 2017 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2017-02-09-have-victors-benefitted-from-career-resources/</guid>
+      <guid>/consider-site/issues/2017-02-09-have-victors-benefitted-from-career-resources/</guid>
       <description>&lt;p&gt;February 9, 2017
 &lt;/p&gt;
 
@@ -211,10 +211,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Are Michigan&#39;s Entrepreneurs the Leaders and Best?</title>
-      <link>/issues/2017-01-12-are-michigans-entrepreneurs-the-leaders-and-best/</link>
+      <link>/consider-site/issues/2017-01-12-are-michigans-entrepreneurs-the-leaders-and-best/</link>
       <pubDate>Thu, 12 Jan 2017 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2017-01-12-are-michigans-entrepreneurs-the-leaders-and-best/</guid>
+      <guid>/consider-site/issues/2017-01-12-are-michigans-entrepreneurs-the-leaders-and-best/</guid>
       <description>&lt;p&gt;January 12, 2017
 &lt;/p&gt;
 
@@ -321,10 +321,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>How Relevant Are Safe Spaces?</title>
-      <link>/issues/2016-11-07-how-relevent-are-safe-spaces/</link>
+      <link>/consider-site/issues/2016-11-07-how-relevent-are-safe-spaces/</link>
       <pubDate>Mon, 07 Nov 2016 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-11-07-how-relevent-are-safe-spaces/</guid>
+      <guid>/consider-site/issues/2016-11-07-how-relevent-are-safe-spaces/</guid>
       <description>&lt;p&gt;November 7, 2016
 &lt;/p&gt;
 
@@ -427,10 +427,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>What is the Future of Media?</title>
-      <link>/issues/2016-10-20-what-is-the-future-of-media/</link>
+      <link>/consider-site/issues/2016-10-20-what-is-the-future-of-media/</link>
       <pubDate>Thu, 20 Oct 2016 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-10-20-what-is-the-future-of-media/</guid>
+      <guid>/consider-site/issues/2016-10-20-what-is-the-future-of-media/</guid>
       <description>&lt;p&gt;October 20, 2016
 &lt;/p&gt;
 
@@ -569,10 +569,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Who is Responsible for Political Polarization?</title>
-      <link>/issues/2016-03-24-who-is-responsible-for-political-polarization/</link>
+      <link>/consider-site/issues/2016-03-24-who-is-responsible-for-political-polarization/</link>
       <pubDate>Thu, 24 Mar 2016 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-03-24-who-is-responsible-for-political-polarization/</guid>
+      <guid>/consider-site/issues/2016-03-24-who-is-responsible-for-political-polarization/</guid>
       <description>&lt;p&gt;March 24, 2016
 &lt;/p&gt;
 
@@ -617,10 +617,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Dating Apps: Can You Call it Love?</title>
-      <link>/issues/2016-02-18-dating-apps-can-you-call-it-love/</link>
+      <link>/consider-site/issues/2016-02-18-dating-apps-can-you-call-it-love/</link>
       <pubDate>Thu, 18 Feb 2016 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-02-18-dating-apps-can-you-call-it-love/</guid>
+      <guid>/consider-site/issues/2016-02-18-dating-apps-can-you-call-it-love/</guid>
       <description>&lt;p&gt;February 18, 2016
 &lt;/p&gt;
 
@@ -659,10 +659,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Should U of M Prioritize In-State Students?</title>
-      <link>/issues/2016-02-10-should-u-of-m-prioritize-in-state-students/</link>
+      <link>/consider-site/issues/2016-02-10-should-u-of-m-prioritize-in-state-students/</link>
       <pubDate>Sat, 05 Dec 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-02-10-should-u-of-m-prioritize-in-state-students/</guid>
+      <guid>/consider-site/issues/2016-02-10-should-u-of-m-prioritize-in-state-students/</guid>
       <description>&lt;p&gt;December 5, 2015
 &lt;/p&gt;
 
@@ -695,10 +695,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Are Cultural Halloween Costumes Problematic?</title>
-      <link>/issues/2016-02-10-are-cultural-halloween-costumes-problematic/</link>
+      <link>/consider-site/issues/2016-02-10-are-cultural-halloween-costumes-problematic/</link>
       <pubDate>Sun, 01 Nov 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-02-10-are-cultural-halloween-costumes-problematic/</guid>
+      <guid>/consider-site/issues/2016-02-10-are-cultural-halloween-costumes-problematic/</guid>
       <description>&lt;p&gt;November 1, 2015
 &lt;/p&gt;
 
@@ -745,10 +745,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Zombies vs. Aliens</title>
-      <link>/issues/2015-04-01-zombies-v-aliens/</link>
+      <link>/consider-site/issues/2015-04-01-zombies-v-aliens/</link>
       <pubDate>Wed, 01 Apr 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2015-04-01-zombies-v-aliens/</guid>
+      <guid>/consider-site/issues/2015-04-01-zombies-v-aliens/</guid>
       <description>&lt;p&gt;April 1, 2015
 &lt;/p&gt;
 
@@ -807,10 +807,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Sex Education</title>
-      <link>/issues/2015-03-18-sex-education/</link>
+      <link>/consider-site/issues/2015-03-18-sex-education/</link>
       <pubDate>Wed, 18 Mar 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2015-03-18-sex-education/</guid>
+      <guid>/consider-site/issues/2015-03-18-sex-education/</guid>
       <description>&lt;p&gt;March 18, 2015
 &lt;/p&gt;
 
@@ -885,10 +885,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Guantanamo Bay: Practicing Our Values or Protecting Ourselves?</title>
-      <link>/issues/2015-02-23-guantanamo-bay-practicing-our-values-or-protecting-ourselves/</link>
+      <link>/consider-site/issues/2015-02-23-guantanamo-bay-practicing-our-values-or-protecting-ourselves/</link>
       <pubDate>Mon, 23 Feb 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2015-02-23-guantanamo-bay-practicing-our-values-or-protecting-ourselves/</guid>
+      <guid>/consider-site/issues/2015-02-23-guantanamo-bay-practicing-our-values-or-protecting-ourselves/</guid>
       <description>&lt;p&gt;February 23, 2015
 &lt;/p&gt;
 
@@ -931,10 +931,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Net Neutrality</title>
-      <link>/issues/2015-02-05-net-neutrality-2/</link>
+      <link>/consider-site/issues/2015-02-05-net-neutrality-2/</link>
       <pubDate>Thu, 05 Feb 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2015-02-05-net-neutrality-2/</guid>
+      <guid>/consider-site/issues/2015-02-05-net-neutrality-2/</guid>
       <description>&lt;p&gt;February 5, 2015
 &lt;/p&gt;
 
@@ -1003,10 +1003,10 @@ Don’t get me wrong, there aren’t that many differences in searching for jobs
     
     <item>
       <title>Legalize Our Campus?</title>
-      <link>/issues/2016-02-10-legalize-our-campus/</link>
+      <link>/consider-site/issues/2016-02-10-legalize-our-campus/</link>
       <pubDate>Tue, 03 Feb 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2016-02-10-legalize-our-campus/</guid>
+      <guid>/consider-site/issues/2016-02-10-legalize-our-campus/</guid>
       <description>&lt;p&gt;February 3, 2015
 &lt;/p&gt;
 
@@ -1076,10 +1076,10 @@ Let us first review the most powerful pro-legalization arguments.&lt;/p&gt;
     
     <item>
       <title>Ebola: Should We Still Worry?</title>
-      <link>/issues/2015-01-19-ebola-should-we-still-worry/</link>
+      <link>/consider-site/issues/2015-01-19-ebola-should-we-still-worry/</link>
       <pubDate>Mon, 19 Jan 2015 19:09:48 +0000</pubDate>
       
-      <guid>/issues/2015-01-19-ebola-should-we-still-worry/</guid>
+      <guid>/consider-site/issues/2015-01-19-ebola-should-we-still-worry/</guid>
       <description>&lt;p&gt;January 19, 2015
 &lt;/p&gt;
 
