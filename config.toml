@@ -3,6 +3,8 @@ title = "Consider Magazine"
 languageCode = "en-us"
 ignoreFiles = [ "/archive/", "hugo" ]
 
+publishDir = "docs"
+
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
