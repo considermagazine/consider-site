@@ -1,4 +1,4 @@
-baseurl = "https://considermagazine.github.io/consider-site/"
+baseurl = ""
 title = "Consider Magazine"
 languageCode = "en-us"
 ignoreFiles = [ "/archive/", "hugo" ]
