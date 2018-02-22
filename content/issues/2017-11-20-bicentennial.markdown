@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "/img/portfolio/2017-11-20.png"
 date = "2017-11-20 10:09:48+00:00"
-title = "How far have we come? How far do we have to go?"
+title = "How Far Have We Come? How Far Do We Have To To?"
 weight = 0
 +++
 November 11, 2017
