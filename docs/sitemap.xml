@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://considermag.org/</loc>
-    <lastmod>2018-02-21T19:09:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://considermag.org/issues/2018-02-20-protests/</loc>
-    <lastmod>2018-02-21T19:09:48+00:00</lastmod>
+    <lastmod>2018-02-21T10:09:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://considermag.org/issues/2017-11-20-bicentennial/</loc>
-    <lastmod>2017-11-20T19:09:48+00:00</lastmod>
+    <lastmod>2017-11-20T10:09:48+00:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +195,28 @@
   <url>
     <loc>http://considermag.org/issues/2012-04-11-slactivism/</loc>
     <lastmod>2012-04-11T19:09:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://considermag.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://considermag.org/</loc>
+    <lastmod>2018-02-21T10:09:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://considermag.org/issues/</loc>
+    <lastmod>2018-02-21T10:09:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://considermag.org/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

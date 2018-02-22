@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/2018-02-21.png"
-date = "2018-02-21 19:09:48+00:00"
+date = "2018-02-21 10:09:48+00:00"
 title = "How Should Students Advance Change on Campus?"
 weight = 0
 +++
