@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/2017-11-20.png"
+image = "img/portfolio/2017-11-20.PNG"
 date = "2017-11-20 10:09:48+00:00"
 title = "How far have we come? How far do we have to go?"
 weight = 0
